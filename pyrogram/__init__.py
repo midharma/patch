@@ -16,7 +16,7 @@
 #  You should have received a copy of the GNU Lesser General Public License
 #  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
 
-__version__ = "AIO"
+__version__ = "2.0.106"
 __license__ = "Ini adalah pyrogram patched"
 __copyright__ = "Copyright (C) 2017-present Dan <https://github.com/delivrance>"
 
